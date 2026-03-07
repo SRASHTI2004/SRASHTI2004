@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Srashti
 
-<!--
-**SRASHTI2004/SRASHTI2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at MAIT  
+💻 Aspiring Python Backend Developer  
+🌱 Currently learning Python and Open Source  
+🚀 Interested in Backend Development and AI
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004&layout=compact)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004)
+
+
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com)
+[GitHub](https://github.com)
+
