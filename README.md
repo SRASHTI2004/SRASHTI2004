@@ -20,6 +20,19 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004&layout=compact)
 
 
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004)
 
 
