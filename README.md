@@ -1,33 +1,51 @@
-# Hi 👋 I'm Srashti
+# 💫 About Me:
 
-🎓 B.Tech IT Student at MAIT  
-💻 Aspiring Python Backend Developer  
-🌱 Currently learning Python and Open Source  
-🚀 Interested in Backend Development and AI
+👋 Hello, I'm Srashti!
+💻 Backend Developer focused on Python & FastAPI
+🎓 Pursuing B.Tech in Information Technology @ MAIT
+🚀 Passionate about building AI-powered backend systems
+🌱 Currently learning Open Source and advanced backend development
+⚡ Exploring AI + Backend integrations
 
+---
 
-## 🛠 Tech Stack
+## 🛠️ Languages and Frameworks
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+| Category                  | Tools & Technologies                   |
+| ------------------------- | -------------------------------------- |
+| **Programming Languages** | Python, C++, JavaScript, HTML, CSS     |
+| **Backend Development**   | FastAPI, Flask, Node.js                |
+| **AI/ML & Libraries**     | NumPy, Pandas, Scikit-learn, LangChain |
+| **Databases**             | MySQL                                  |
+| **Tools & Platforms**     | Git, GitHub, VS Code, Jupyter Notebook |
 
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004\&layout=compact\&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004\&theme=tokyonight)
 
+---
 
+## 🚀 Projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004)
+🔹 **PrePai (RAG-based AI Project)**
+→ Intelligent retrieval-based system using LLMs
 
+🔹 **Fitness-Tracker-api**
+→ Backend APIs using FastAPI
 
+---
 
-## 🤝 Connect With Me
+## 🌐 Connect with Me:
 
-[LinkedIn](https://linkedin.com)
-[GitHub](https://github.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/srashti-choudhary
+* 💻 GitHub: https://github.com/SRASHTI2004
 
+---
+
+✨ *“Code. Build. Improve. Repeat.”*
