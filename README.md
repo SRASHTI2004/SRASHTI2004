@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 
 * 👩‍💻 Hello, I'm Srashti!
 * 🧠 Backend Developer focused on Python & FastAPI
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Languages and Frameworks
+# 🛠️ Languages and Frameworks
 
 | Category                  | Tools & Technologies                   |
 | ------------------------- | -------------------------------------- |
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004\&show_icons=true\&theme=tokyonight)
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 🔹 **PrePai (RAG-based AI Project)**
 → Intelligent retrieval-based system using LLMs
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Connect with Me:
+# 🌐 Connect with Me:
 
 * 💼 LinkedIn: https://www.linkedin.com/in/srashti-choudhary
 * 💻 GitHub: https://github.com/SRASHTI2004
