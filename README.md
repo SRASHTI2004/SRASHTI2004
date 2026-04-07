@@ -1,11 +1,11 @@
 ## 💫 About Me:
 
-- 👩‍💻 Hello, I'm Srashti!
-- 🧠 Backend Developer focused on Python & FastAPI
-- 🎓 B.Tech IT Student @ MAIT
-- ⚡ Building AI-powered backend systems
-- 📦 Learning Open Source and backend architecture
-- 🔍 Exploring AI + Backend integrations
+* 👩‍💻 Hello, I'm Srashti!
+* 🧠 Backend Developer focused on Python & FastAPI
+* 🎓 B.Tech IT Student @ MAIT
+* ⚡ Building AI-powered backend systems
+* 📦 Learning Open Source and backend architecture
+* 🔍 Exploring AI + Backend integrations
 
 ---
 
@@ -20,33 +20,23 @@
 | **Tools & Platforms**     | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
-## 💫 About Me:
-
-- 👩‍💻 Hello, I'm Srashti!
-- 🧠 Backend Developer focused on Python & FastAPI
-- 🎓 B.Tech IT Student @ MAIT
-- ⚡ Building AI-powered backend systems
-- 📦 Learning Open Source and backend architecture
-- 🔍 Exploring AI + Backend integrations
-
-
----
-
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004\&theme=tokyonight)
+
+---
 
 ## 🚀 Projects
 
 🔹 **PrePai (RAG-based AI Project)**
 → Intelligent retrieval-based system using LLMs
 
-🔹 **Fitness-Tracker-api**
+🔹 **Fitness-Tracker-API**
 → Backend APIs using FastAPI
 
 ---
