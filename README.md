@@ -1,11 +1,11 @@
-# 💫 About Me:
+## 💫 About Me:
 
-👋 Hello, I'm Srashti!
-💻 Backend Developer focused on Python & FastAPI
-🎓 Pursuing B.Tech in Information Technology @ MAIT
-🚀 Passionate about building AI-powered backend systems
-🌱 Currently learning Open Source and advanced backend development
-⚡ Exploring AI + Backend integrations
+- 👩‍💻 Hello, I'm Srashti!
+- 🧠 Backend Developer focused on Python & FastAPI
+- 🎓 B.Tech IT Student @ MAIT
+- ⚡ Building AI-powered backend systems
+- 📦 Learning Open Source and backend architecture
+- 🔍 Exploring AI + Backend integrations
 
 ---
 
@@ -23,11 +23,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRASHTI2004&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRASHTI2004&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRASHTI2004&theme=tokyonight)
+
 
 ---
 
